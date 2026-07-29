@@ -1,7 +1,9 @@
-**Description**
-
+**Project Overview**
 Hospital-Emergency-Room
-
+<img width="972" height="736" alt="image 1" src="https://github.com/user-attachments/assets/8cf891bc-28e6-4846-8a29-a2cb27308737" />
+ <img width="970" height="736" alt="image 2" src="https://github.com/user-attachments/assets/54044d0d-8e14-46dc-9793-5a4b55e94877" />
+ <img width="972" height="745" alt="image 3" src="https://github.com/user-attachments/assets/10d55548-0594-4452-8de6-2bbaeef2160b" />
+ 
 This dashboard analyzing Hospital ER performance : patient volume, wait times, admissionrates, demographics, and satisfication scores for Nov 2023.
 
 Overview
@@ -46,9 +48,7 @@ Key Insights
 - **Target Performance**: 197 patients were seen within 30 mins target
 - **Top Referrals**: General Practice and Orthopedics are top referring departments
 
- <img width="972" height="736" alt="image 1" src="https://github.com/user-attachments/assets/8cf891bc-28e6-4846-8a29-a2cb27308737" />
- <img width="970" height="736" alt="image 2" src="https://github.com/user-attachments/assets/54044d0d-8e14-46dc-9793-5a4b55e94877" />
- <img width="972" height="745" alt="image 3" src="https://github.com/user-attachments/assets/10d55548-0594-4452-8de6-2bbaeef2160b" />
+ 
 
 
 
