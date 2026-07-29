@@ -45,3 +45,6 @@ Key Insights
 - **Peak Times**: Thursdays and 30-39 age group had highest footfall
 - **Target Performance**: 197 patients were seen within 30 mins target
 - **Top Referrals**: General Practice and Orthopedics are top referring departments
+
+  <img width="1272" height="742" alt="screenshot" src="https://github.com/user-attachments/assets/8d73ad84-4f29-4178-b621-75ff86d1f1b2" />
+
