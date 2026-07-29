@@ -46,5 +46,6 @@ Key Insights
 - **Target Performance**: 197 patients were seen within 30 mins target
 - **Top Referrals**: General Practice and Orthopedics are top referring departments
 
-  <img width="1272" height="742" alt="screenshot" src="https://github.com/user-attachments/assets/8d73ad84-4f29-4178-b621-75ff86d1f1b2" />
+  <img width="972" height="745" alt="image 3" src="https://github.com/user-attachments/assets/c4134163-0839-4c72-b68f-a412095fedc4" />
+
 
