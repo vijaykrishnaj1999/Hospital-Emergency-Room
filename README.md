@@ -1,12 +1,10 @@
-**Project Overview**
-Hospital-Emergency-Room
+**Hospital-Emergency-Room**
+
 <img width="972" height="736" alt="image 1" src="https://github.com/user-attachments/assets/8cf891bc-28e6-4846-8a29-a2cb27308737" />
  <img width="970" height="736" alt="image 2" src="https://github.com/user-attachments/assets/54044d0d-8e14-46dc-9793-5a4b55e94877" />
  <img width="972" height="745" alt="image 3" src="https://github.com/user-attachments/assets/10d55548-0594-4452-8de6-2bbaeef2160b" />
- 
-This dashboard analyzing Hospital ER performance : patient volume, wait times, admissionrates, demographics, and satisfication scores for Nov 2023.
 
-Overview
+ **Project Overview**
 This Power BI dashboard provides a monthly analysis of Hospital Emergency Room operations for Nov 2023. It tracks patient volume, wait times, admission rates, demographics, and operational efficiency to improve ER performance and patient care.
 
 Features
